@@ -319,5 +319,5 @@ function profiler0() {
 //_____________________________
 
 seniorLearning=()=>{
-	open("https://smtechnology133.github.io/LearningJunior/seniorLearning.html");
+	open("https://smtechnology133.github.io/LearningSenior/seniorLearning.html");
 }
