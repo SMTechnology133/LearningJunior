@@ -316,4 +316,8 @@ function profiler0() {
 }
 //end of speech 0
 
-//_______________________________
+//_____________________________
+
+seniorLearning=()=>{
+	open("https://smtechnology133.github.io/LearningJunior/seniorLearning.html");
+}
